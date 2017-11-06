@@ -14,9 +14,9 @@ namespace GitTreeApplication
             {
                 Console.WriteLine(i);
             }
-            for (int b = 0; b < 20; b++)
+            for (int c = 0; c < 20; c++)
             {
-                Console.WriteLine(b);
+                Console.WriteLine(c);
             }
         }
     }
