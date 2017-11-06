@@ -18,6 +18,8 @@ namespace GitTreeApplication
             {
                 Console.WriteLine(c);
             }
+
+            Console.WriteLine("Congrats, on getting to the number 19.... But it's not 20 haha");
         }
     }
 }
